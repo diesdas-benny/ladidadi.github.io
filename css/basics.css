@@ -26,9 +26,17 @@ img {
   float: left;
   margin: 0 3% 48px 0;
 }
+ul {
+  font-size: 18px;
+  text-transform: uppercase;
+  line-height: 18px;
+}
 .header {
   width: 100%;
   height: 60px;
+  position: fixed;
+  top: 0px;
+  background-color: #333;
 }
 .wrapper-sign {
   align-self: center;
