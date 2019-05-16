@@ -89,6 +89,10 @@ ul {
   text-transform: uppercase;
   line-height: 18px;
 }
+nav li {
+  list-style: none;
+  padding: 12px;
+}
 
 .wrapper-sign {
   align-self: center;
@@ -120,8 +124,4 @@ ul {
 }
 .pink {
   background-color: pink;
-}
-.text-block {
-  width: 65%;
-  float: right;
 }
