@@ -94,14 +94,34 @@ ul {
   line-height: 60px;
   color: white;
 }
-nav li {
-  list-style: none;
-  padding: 12px;
+
+
+
+.nav ul {
+  display: flex;
 }
 
-nav a {
-  display: block;
+.nav li {
+  list-style: none;
+  margin-left: 10px;
 }
+
+.nav a {
+  display: block;
+  padding: 25px;
+  background: tomato;
+  border-radius: 6px;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.nav a:hover {
+  background: purple;
+  color: white;
+}
+
+
 
 .wrapper-sign {
   align-self: center;
