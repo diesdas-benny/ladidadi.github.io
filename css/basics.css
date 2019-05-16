@@ -1,6 +1,8 @@
 body {
   display: flex;
   align-items: center;
+  background-image: url(img/Baustelle-04.jpg);
+  background-size: cover;
   }
 * {
   font-family: "Graebenbach", "Helvetica", sans;
