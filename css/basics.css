@@ -7,7 +7,18 @@ body {
 * {
   font-family: "Graebenbach", "Helvetica", sans;
 }
-h2 {
+h1 {
+  font-size: 64px;
+  line-height: 72px;
+  -webkit-text-shadow: 0 0 20px #fff;
+    -ms-text-shadow: 0 0 20px #fff;
+    -moz-text-shadow: 0 0 20px #fff;
+    -o-text-shadow: 0 0 20px #fff;
+  text-shadow: 0 0 20px #fff;
+
+  }
+
+  h2 {
   font-size: 48px;
   text-align: center;
   /*text-transform: uppercase;*/
