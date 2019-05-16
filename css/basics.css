@@ -33,7 +33,7 @@ img {
   width: 640px;
   height: auto;
   padding: 24px;
-  margin: 0 24px 48px 0;
+  margin: auto; /*0 24px 48px 0;*/
 }
 .sign {
   color: black;
