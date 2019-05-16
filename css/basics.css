@@ -34,9 +34,9 @@ time, mark, audio, video {
 body {
   display: flex;
   align-items: center;
-  background-image: url(/img/Baustelle-04.jpg);
+  background-image: url(/img/Baustelle.jpg);
   background-size: cover;
-  background-color: coral;
+  background-color: #f6f6f6;
   }
 * {
   font-family: "Graebenbach", "Helvetica", sans;
