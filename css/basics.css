@@ -26,6 +26,7 @@ img {
   margin: 0 3% 48px 0;
 }
 .wrapper-sign {
+  align-self: center;
   color: black;
   background-color: yellow;
   width: 640px;
