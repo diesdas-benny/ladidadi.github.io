@@ -28,6 +28,7 @@ body {
 
 .wrapper {
   width: 100%;
+  height: 1fr;
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
