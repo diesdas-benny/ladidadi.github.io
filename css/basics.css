@@ -15,7 +15,7 @@ footer, header, hgroup, main, nav, section, summary {
 body {
   display: flex;
   align-items: center;
-  background-image: url("https://github.com/diesdas-benny/ladidadi.github.io/blob/master/img/Baustelle.jpg");
+  background-image: url("img/Baustelle.jpg");
   background-size: cover;
   background-color: rgba(0,0,0,0.4);
   }
