@@ -15,7 +15,7 @@ footer, header, hgroup, main, nav, section, summary {
 body {
   display: flex;
   align-items: center;
-  background-image: url(/img/Baustelle.jpg);
+  background-image: url("/img/Baustelle.jpg");
   background-size: cover;
   background-color: #f6f6f6;
   }
