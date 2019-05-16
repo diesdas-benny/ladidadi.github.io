@@ -17,7 +17,7 @@ body {
   align-items: center;
   background-image: url("/img/Baustelle.jpg");
   background-size: cover;
-  background-color: #f6f6f6;
+  background-color: rgba(0,0,0,0.4);
   }
 
 * {
