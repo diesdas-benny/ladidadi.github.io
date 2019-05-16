@@ -27,10 +27,10 @@ body {
 
 .wrapper {
   width: 100%;
-  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   /*background: #fff;*/
+  position: relative;
 }
 
 .header {
@@ -38,6 +38,8 @@ body {
   justify-content: space-between;
   max-width: 1280px;
   height: 60px;
+  margin-left: auto;
+  margin-right: auto;
   position: fixed;
   top: 0px;
   left: 0px;
@@ -66,9 +68,9 @@ h1 {
   h2 {
   font-size: 48px;
   text-align: center;
-  /*text-transform: uppercase;*/
   padding: 0;
-}
+  }
+
 h3 {
   font-size: 36px;
   text-align: center;
