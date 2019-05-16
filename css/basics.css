@@ -25,18 +25,21 @@ body {
 }
 
 
+
 .wrapper {
   width: 100%;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  /*background: #fff;*/
-  position: relative;
+  background: #fff;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
-  max-width: 1280px;
+}
+
+lorem {
   height: 60px;
   margin-left: auto;
   margin-right: auto;
